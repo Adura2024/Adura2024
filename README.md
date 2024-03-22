@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adura
 - 👀 I’m A Data Analyst
-- 🌱 I’m currently enhancing my SQL skills and basics of phython
+- 🌱 I’m currently enhancing my SQL skills and learning the basics of phython
 - 💞️ I’m looking to collaborate on real world data and projects
 - 📫 How to reach me (http://www.linkedin.com/in/aduragbemisolabolarin)
 - 😄 Pronouns: she/her
